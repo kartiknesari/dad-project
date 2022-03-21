@@ -1,0 +1,9 @@
+.App {
+	display: flex;
+	font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+	flex: 0.76;
+	height: 100vh;
+}
